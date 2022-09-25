@@ -1,0 +1,19 @@
+{
+  "name": "rattique-tutorials-pl-node-js",
+  "version": "0.7.0",
+  "description": "Tutorial RabbitMQ dla środowiska node.js",
+  "email": "tkuter@loculus.pl",
+  "dependencies": {
+    "amqplib": "^0.4"
+  },
+  "keywords": [
+    "AMQP",
+    "AMQP 0-9-1",
+    "RabbitMQ",
+    "RattiQue",
+    "node.js",
+    "amqplib"
+  ],
+  "author": "Tomasz Kuter <tkuter@loculus.pl>",
+  "license": "MIT"
+}
